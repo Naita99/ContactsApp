@@ -1,0 +1,6 @@
+ContactsApp/ContactsAppMainApp.java
+ ContactsApp.ContactsAppMainApp
+ContactsApp/Contact.java
+ ContactsApp.Contact
+ContactsApp/ContactsAppController.java
+ ContactsApp.ContactsAppController
